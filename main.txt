@@ -1,3 +1,2 @@
-this is branch main's txt file in mainA
-!
+this is branch main's txt file in mainA & mainC
 
